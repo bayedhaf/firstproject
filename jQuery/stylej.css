@@ -1,0 +1,94 @@
+.big_title{
+    font-size: 6rem;
+    font-family:cursive;
+    color:black;
+}
+.header{
+    height: 30px;
+    background-color: coral;
+}
+.margin_50{
+    margin: 50px;
+}
+.top-container{
+    background-color: darkgray;
+    height: 400px;
+    margin: 50px auto 50px auto;
+   /* width: %;*/
+    position: relative;
+    text-align: center;
+    color: black;
+
+}
+
+.am{
+    background-color: rgb(39, 39, 39);
+    height: 400px;
+    margin: 0px auto 0px auto;
+    width:70%;
+    /*object-position: 50%;*/
+    text-align:center;
+    color: whitesmoke;
+
+
+}
+
+.my{
+    background-color: blueviolet;
+    height: 300px;
+    margin: 300px auto 200px auto;
+    width:50% ;
+    position:relative;
+    text-align: center;
+    color:white;
+
+}
+.bodyy{
+    height: 300px;
+    margin: 200px auto 100px auto;
+   /* width:309;
+    object-position: 50%;*/
+ text-align:center;
+    color: whitesmoke;
+
+}
+.main{
+
+    height: 300px;
+    margin: 400px auto 0px auto;
+    width:50%;
+   /* object-position: 50%;*/
+ text-align:center;
+    color: black;
+}
+
+
+.mid-container {
+    background-color:darkolivegreen;
+    /*for area and to move the position of the diagram*/
+          height:350px;/*
+          width: 600px;*/
+          position:relative;
+        
+          left:0px;
+          margin: 300px auto 0px auto;
+        text-align: center;
+      
+        color:white;
+    text-decoration-thickness:2px;
+    
+    font-style: oblique;
+  
+   
+    font-stretch: semi-condensed;
+    
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    .p{
+        font-size: small;
+        
+    }
+}
+
+
+        
